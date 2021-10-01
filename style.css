@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(141, 246, 253);
+    text-align: center;
+    font-size: 28px;
+}
+.body2{
+    background-color: rgb(87, 224, 121);
+    text-align: center;
+    font-size: 28px;
+}
+.body3{
+   text-align: center;
+    font-size: 28px;
+    background-image: url('img/depositphotos_9840753-stock-photo-green-grass-background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.a1{
+    color: rgb(255, 255, 255);
+}
+.a2{
+    color: rgb(255, 57, 57);
+}
+.a3{
+    color: rgb(0, 0, 0);
+}
+.red{
+    color: firebrick;
+}
+.spisok{
+    padding-top: 5%;
+}
+
+h1{
+    font-size: 48px;
+    font-style: italic;
+}
+.timoha{
+    display: flex;
+}
+
+.timaimg{
+    width: 280px;
+    height: 300px;
+}
+.marker{
+    margin-left: 28px;
+    text-align: left;
+}
+.frolikimg{
+    padding-top: 3%;
+    width: 280px;
+    height: 300px;
+}
+
+.text2{
+    padding-top: 2%;
+}
+.spandog{
+    color: rgb(9, 114, 0);
+}
+.spankrol{
+    color: goldenrod;
+    font-weight: bold;
+    font-style: italic;
+}
+.klavaimg{
+    
+    width: 280px;
+    height: 280px;
+}
